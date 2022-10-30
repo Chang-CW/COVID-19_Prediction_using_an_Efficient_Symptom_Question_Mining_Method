@@ -1,0 +1,8 @@
+,Sensitivity(%),Specificity(%),Accuracy(%),Precision(%),ROC(%)
+SVM,85.93,91.27,90.78,53.11,90.32
+Random Forest,85.7,91.27,90.75,53.05,93.6
+XGBoost,85.82,91.27,90.77,53.09,93.6
+KNN,86.77,73.35,74.58,39.85,82.49
+Logistic Regression,59.53,98.73,95.12,83.22,92.66
+Decision Tree,65.38,98.84,95.76,85.31,93.4
+Naive Bayes,72.95,96.29,94.14,69.45,93.39
