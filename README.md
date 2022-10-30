@@ -1,1 +1,1 @@
-# COVID-19_Prediction_using_an_Efficient_Symptom_Question_Mining_Method
+# COVID-19 Prediction using an Efficient Symptom Question Mining Method
